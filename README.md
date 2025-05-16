@@ -10,7 +10,7 @@
 - 沒有使用任何內建排序函式。
 
 ## 執行方法
-1. 在 Python 環境（Jupyter Notebook 或直接執行 `.py`）中執行 `quick_sort_hw3.ipynb` 或對應 `.py` 檔案。
+1. 在 Python 環境（Jupyter Notebook）中執行 `quick_sort_hw3.ipynb` 。
 2. 程式會印出排序過程與最終排序結果。
 
 ## 範例輸出（排序過程）
